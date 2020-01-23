@@ -7,6 +7,7 @@ public class ThursdayExample {
         System.out.println("learning github");
         System.out.println("learning pull operation");
         System.out.println("learning fetch operation");
+        System.out.println("learning merge operation");
         
     }
     
